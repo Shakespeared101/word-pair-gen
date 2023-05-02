@@ -1,2 +1,16 @@
-# word-pair-gen
-This is a clone I made following Traversy Media's crash course on flutter to make a basic mobile application which generates random word pairs in english and lets you select and keep a list of favourite word pairs from them in a separate for later use 
+# wordpair_gen
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
