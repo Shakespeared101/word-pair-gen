@@ -8,6 +8,8 @@ Link to the youtube video : https://youtu.be/1gDhl4leEzA
 
 This project is a starting point for a Flutter application.
 
+The Main code file is located in the lib folder - I've made 2 seperate files , one for the driver file and another for generating the random words.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
