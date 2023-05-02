@@ -3,6 +3,7 @@
 A new Flutter project.
 This is a basic Flutter app I created by following Traversy Media's "Crash Course in Flutter" on Youtube where I cloned the instructor's app which generates pairs of random words and let you select your favorites from them and access them as a separate list.
 
+Link to the youtube video : https://youtu.be/1gDhl4leEzA
 ## Getting Started
 
 This project is a starting point for a Flutter application.
